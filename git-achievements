@@ -67,6 +67,11 @@ $2
 " |  sed  -e :a -e 's/^.\{1,79\}$/ & /;ta'
 }
 
+function show_notification
+{
+    notify-send "$1" "$2" -t 3000
+}
+
 function unlock_achievement()
 {
     grep "$1" "${ACHIEVEMENTSLOGFILE}" > /dev/null 2>/dev/null
@@ -75,6 +80,7 @@ function unlock_achievement()
     fi
     output_achievement "$@" >&2
     output_achievement "$@" >> "${ACHIEVEMENTSLOGFILE}"
+    show_notification "$@"
 
     if [ "`git config --global achievement.upload`" = "true" ] ; then
         publish_achievements "$@"
