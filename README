@@ -5,10 +5,10 @@ After a git command is executed if a new achievement is unlocked
 git-achievements will display a message on the console for your enjoyment:
 
 ********************************************************************************
-                            Git Achievement Unlocked!                            
+                            Git Achievement Unlocked!
 
-                                    Caretaker                                    
-                    Added a .gitignore file to a repository.                    
+                                    Caretaker
+                    Added a .gitignore file to a repository.
 ********************************************************************************
 
 
@@ -42,3 +42,9 @@ alias git="git-achievements"
 You can get your first achievement by running
 
     git achievements --help
+
+Info on this fork
+-----------------
+The reason I initially forked the main repo was to add in notify-send support
+for growl-like notifications in Ubuntu for extra goodness. Take a look at the
+git-achievements file here. (specifically the show_notification function)
