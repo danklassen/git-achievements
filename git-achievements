@@ -303,6 +303,9 @@ function check_for_achievements
                 add )
                 count_unlock_achievement "Merchant" "Added an external repository with git remote add." "remote add"
                 ;;
+            	prune )
+		count_unlock_achievement "Bonsai Artist" "Pruned stale branches from a remote with remote prune." "remote prune"
+		;;
             esac
             ;;
         shell )
