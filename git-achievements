@@ -168,6 +168,9 @@ function check_for_achievements
     fi
 
     case $command in
+       achievements )
+          count_unlock_achievement "Vanity Check" "Checked your achievements using git achievement" "$1"
+           ;;
        add )
             count_unlock_achievement "Stone Mason" "Added files to the index area for inclusion in the next commit with git add" "$1"
             case $2 in
@@ -272,6 +275,9 @@ function check_for_achievements
         merge )
             count_unlock_achievement "Banker" "Join two or more development histories together with git merge." "$1"
             ;;
+        mergetool )
+            count_unlock_achievement "Amalgamator" "Merge conflicted file with git mergetool." "$1"
+            ;;
         push )
             count_unlock_achievement "Socialite" "pushed a branch to a remote repository using git push" "$1"
             case $2 in
@@ -319,6 +325,9 @@ function check_for_achievements
             ;;
         stash )
             count_unlock_achievement "Product Manager" "Stash the changes in a dirty working directory away with git stash." "$1"
+            ;;
+        status )
+            count_unlock_achievement "Context Seeker" "Checked repo status with git status" "status"
             ;;
         svn|p4 )
             count_unlock_achievement "Traveler" "Streamed changes between another rcs with git svn or git p4." "$1"
