@@ -2,6 +2,7 @@
 <title>Dan Klassen's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Vanity Check (Level 7)</title><description>Checked your achievements using git achievement</description></item>
 <item><title>Apprentice News Reader (Level 1)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
 <item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Amalgamator (Level 2)</title><description>Merge conflicted file with git mergetool.</description></item>
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
