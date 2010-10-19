@@ -7,6 +7,12 @@
 <item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Vanity Check (Level 7)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Vanity Check (Level 6)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Vanity Check (Level 5)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Apprentice Vanity Check (Level 4)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Apprentice Vanity Check (Level 3)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Apprentice Vanity Check (Level 2)</title><description>Checked your achievements using git achievement</description></item>
+<item><title>Apprentice Vanity Check (Level 1)</title><description>Checked your achievements using git achievement</description></item>
 <item><title>Apprentice News Reader (Level 1)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
 <item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
@@ -16,10 +22,4 @@
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Traveler (Level 5)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 </channel></rss>
