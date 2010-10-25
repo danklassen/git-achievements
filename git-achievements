@@ -454,7 +454,7 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     fi
 
     if [ ! "`git config --global achievement.upload`" = "true" ] ; then
-        echo "Global achievement.upload not set to true, updates left uncommited"
+        #echo "Global achievement.upload not set to true, updates left uncommited"
         return
     fi
 
