@@ -37,9 +37,13 @@ function git_achievements_command
             ;;
         * )
             echo "Git Achievements"
+            levels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | grep Level | sed -e 's/.* //g' -e 's/)//g' | awk '{ t=t+$0 } END { print t }'`
+            onelevels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | wc -l`
+            let points="${levels}"+"${onelevels}"
             count=`cat "${ACHIEVEMENTSLOGFILE}" 2> /dev/null | grep Unlocked | wc -l`
             echo ""
             echo "You currently have: $count achievements"
+            echo "With a total of $points points"
             echo ""
             echo "Options:"
             echo "    -l --list    Show all achievements."
