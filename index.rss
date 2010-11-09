@@ -7,6 +7,14 @@
 <item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Context Seeker (Level 9)</title><description>Checked repo status with git status</description></item>
+<item><title>Master Context Seeker (Level 8)</title><description>Checked repo status with git status</description></item>
+<item><title>Master Context Seeker (Level 7)</title><description>Checked repo status with git status</description></item>
+<item><title>Context Seeker (Level 6)</title><description>Checked repo status with git status</description></item>
+<item><title>Context Seeker (Level 5)</title><description>Checked repo status with git status</description></item>
+<item><title>Context Seeker (Level 4)</title><description>Checked repo status with git status</description></item>
+<item><title>Apprentice Context Seeker (Level 3)</title><description>Checked repo status with git status</description></item>
+<item><title>Apprentice Context Seeker (Level 2)</title><description>Checked repo status with git status</description></item>
+<item><title>Apprentice Context Seeker (Level 1)</title><description>Checked repo status with git status</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
@@ -14,12 +22,4 @@
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Goldsmith (Level 6)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Amalgamator (Level 3)</title><description>Merge conflicted file with git mergetool.</description></item>
-<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Vanity Check (Level 7)</title><description>Checked your achievements using git achievement</description></item>
 </channel></rss>
