@@ -2,47 +2,24 @@
 <title>Dan Klassen's Git Achievements</title>
 <description></description>
 <link></link>
-<<<<<<< HEAD
-<item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice News Reader (Level 2)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
-<item><title>Amalgamator (Level 4)</title><description>Merge conflicted file with git mergetool.</description></item>
-<item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Master Context Seeker (Level 9)</title><description>Checked repo status with git status</description></item>
-<item><title>Master Context Seeker (Level 8)</title><description>Checked repo status with git status</description></item>
-<item><title>Master Context Seeker (Level 7)</title><description>Checked repo status with git status</description></item>
-<item><title>Context Seeker (Level 6)</title><description>Checked repo status with git status</description></item>
-<item><title>Context Seeker (Level 5)</title><description>Checked repo status with git status</description></item>
-<item><title>Context Seeker (Level 4)</title><description>Checked repo status with git status</description></item>
-<item><title>Apprentice Context Seeker (Level 3)</title><description>Checked repo status with git status</description></item>
-<item><title>Apprentice Context Seeker (Level 2)</title><description>Checked repo status with git status</description></item>
-<item><title>Apprentice Context Seeker (Level 1)</title><description>Checked repo status with git status</description></item>
-<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-=======
-<item><title>Architect (Level 5)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Plumber (Level 2)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Apprentice Plumber (Level 1)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
+<item><title>Master Socialite (Level 10)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Master Pedantic (Level 7)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
 <item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Miller (Level 6)</title><description>Add only part of a file to the stage 1262 times with git add -p.</description></item>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
-<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 1057 times with git add -p.</description></item>
+<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Master Context Seeker (Level 11)</title><description>Checked repo status with git status</description></item>
+<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
+<item><title>Master Goldsmith (Level 7)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
+<item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 1028 times with git add -p.</description></item>
-<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Master Goldsmith (Level 9)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Master Butcher (Level 7)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Master Seamstress (Level 7)</title><description>amended a commit with git commit --amend.</description></item>
->>>>>>> upstream/gh-pages
+<item><title>Gipsy (Level 6)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
+<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Master Context Seeker (Level 10)</title><description>Checked repo status with git status</description></item>
+<item><title>Amalgamator (Level 6)</title><description>Merge conflicted file with git mergetool.</description></item>
+<item><title>Amalgamator (Level 5)</title><description>Merge conflicted file with git mergetool.</description></item>
+<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
